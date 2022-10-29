@@ -20,7 +20,7 @@ public class HistogramDisplay extends ApplicationFrame {
     }
     
     public void execute() {
-        setVisible(true);
+        setVisible(true); 
     }
     
     private JPanel createPanel(){
